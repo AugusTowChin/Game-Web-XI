@@ -1,7 +1,6 @@
-.red {
-    color: red;
-}
-
-.bg-blue {
-    background-color: blue
+#AA {
+    color: black;
+    font-size: 65px;
+    background-color: aqua;
+    border: 2px solid black;
 }
